@@ -1,5 +1,13 @@
 # 🚧 Road Accident Data Analysis Dashboard
 
+## 📊 View Dashboard Online
+
+Click below to explore the interactive Tableau dashboard:
+
+🔗 [Accident Analysis Dashboard on Tableau Public](https://public.tableau.com/app/profile/athira.b.s7726/viz/accident_data_17508278106740/Dashboard1)
+
+
+
 ## 📊 Project Overview
 This project analyzes road accident data to uncover trends and patterns related to accident severity, environmental conditions, and vehicle types. The data is visualized using an interactive **Tableau Dashboard** to assist in identifying high-risk factors and regions for informed decision-making and safety improvements.
 
